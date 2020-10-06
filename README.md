@@ -20,7 +20,7 @@ This project has both a **Server** and a **Client**.
 It was made for Windows so there is no support for other OS but it can be easily modded.
 It handles multiple clients.
 
-![CPU SS](/images/cpu-ss.png)
+![CPU SS](https://github.com/klaresa/Projects/blob/main/images/cpu-ss.PNG)
 
 ## Configuration
 
