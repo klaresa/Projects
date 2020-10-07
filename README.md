@@ -129,7 +129,7 @@ Some methods for this project:
 Javascript only project.
 
 
-![Todo Task List (Javascript only) SS](https://github.com/klaresa/Projects/blob/main/images/gitrepo-js-ss.PNG)
+![Todo Task List (Javascript only) SS](https://github.com/klaresa/Projects/blob/main/images/todo-ss.PNG)
 
 
 #### Configuration
