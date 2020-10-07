@@ -1,0 +1,9 @@
+.main-style{
+    color: #24292e;
+    margin: 15px;
+    border: 1px solid rgba(36, 41, 46, 0.20);
+    border-radius: 3px;
+}
+.main-style p{
+    padding: 10px;
+}

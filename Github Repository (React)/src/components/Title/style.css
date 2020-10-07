@@ -1,0 +1,11 @@
+.main-title {
+    text-align: center;
+    font-family: sans-serif;
+    background: #24292e;
+    color: #c8c9cb;
+    padding: 50px;
+}
+
+.main-title p{
+    padding: 10px;
+}

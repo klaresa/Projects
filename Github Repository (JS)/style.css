@@ -1,0 +1,11 @@
+h4, ul{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.container{
+    border-radius: 3%;
+    margin-top: 10px;
+    background-color: #f9f9f9;
+    padding: 40px;
+}

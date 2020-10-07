@@ -1,0 +1,52 @@
+
+.search{
+    color: #24292e;
+    margin: 15px;
+    border: 1px solid rgba(36, 41, 46, 0.20);
+    border-radius: 3px;
+}
+
+.search p{
+    padding: 10px;
+}
+
+.repo-search{
+    text-align: center;
+    margin: 5px;
+}
+.repo-search button{
+    margin-bottom: 15px;
+}
+
+.repos {
+    text-align: left;
+    padding: 10px;
+    margin-bottom: 5px;
+    font-size: 12px;
+    border: 1px solid rgba(36, 41, 46, 0.31);
+    border-radius: 3px;
+}
+
+.repos strong {
+    font-size: 16px;
+}
+.repos p {
+    padding: 2px;
+}
+.repos a {
+    text-decoration: none;
+    color: dodgerblue;
+}
+
+.repo-search button {
+    background-color: white;
+    padding: 3px;
+    border: 2px solid #24292e;
+}
+
+.repo-search input {
+    margin-top: 10px;
+    padding: 3px;
+    border: 2px solid #24292e;
+    border-right: none;
+}
