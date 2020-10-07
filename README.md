@@ -5,7 +5,7 @@ Here I add some projects I`ve done over the time.
 - System App
 - Github Repository (JavaScript)
 - Github Repository (React)
-- Todo App
+- Todo Task List
 - Games JS
 - Draw it
 
@@ -51,6 +51,8 @@ Run main.py on root.
 `server.py` must be executed before `main.py`
 
 ---
+<br>
+
 ### Github Repository (JavaScript)
 
 Quick project on querying Github users repositories. No installations required, it can be open on your browser.
@@ -68,6 +70,8 @@ No aditional configuration needed for this project. You can simply open it on yo
 
 
 ---
+<br>
+
 ### Github Repository (React)
 
 Another project on GitHubs repositories yet using React framework.
@@ -108,6 +112,7 @@ You can also merge both installation and creation of a new project if using NPM 
 If these steps didnt work then check out reacts instructions: [here](http://https://reactjs.org/docs/getting-started.html "here")
 
 ---
+<br>
 
 ### Todo Task List
 
@@ -131,12 +136,11 @@ Javascript only project.
 No further installation is required.
 
 ---
+<br>
 
 ### Draw it
 
 Draw it is a small pixel canvas. It is cool to draw stuff clicking on squares. You can save colors you like to use them later.
-
-
 
 
 **Features**
@@ -147,9 +151,10 @@ Draw it is a small pixel canvas. It is cool to draw stuff clicking on squares. Y
 
 Javascript only project.
 
-![Draw it (Javascript only) SS](https://github.com/klaresa/Projects/blob/main/images/gitrepo-js-ss.PNG)
+![Draw it (Javascript only) SS](https://github.com/klaresa/Projects/blob/main/images/draw-it-ss.PNG)
 
 ---
+<br>
 
 ### Games JS
 
@@ -176,23 +181,25 @@ Javascript only project.
 **Games**
 
 1. *Connect Four*
-This games purpose is to connect four balls in a row. Whoever does it first wins the match. Two players.
-![Connect Four](https://github.com/klaresa/Projects/blob/main/images/connect-four-ss.PNG)
-
+ This games purpose is to connect four balls in a row. Whoever does it first wins the match. Two players.
+ ![Connect Four](https://github.com/klaresa/Projects/blob/main/images/connect-four-ss.PNG)
 
 2. *Memory Game*
-Simple game for one player that one must unravel all cards by matching its pictures.
-![Memory Game](https://github.com/klaresa/Projects/blob/main/images/memory-game-ss.PNG)
+
+ Simple game for one player that one must unravel all cards by matching its pictures.
+ ![Memory Game](https://github.com/klaresa/Projects/blob/main/images/memory-game-ss.PNG)
 
 3. *Nokia 3310 Snake*
-Classic snake game featured on Nokia phones. One player game.
-![Snake Game](https://github.com/klaresa/Projects/blob/main/images/snake-game-ss.PNG)
+
+ Classic snake game featured on Nokia phones. One player game.
+ ![Snake Game](https://github.com/klaresa/Projects/blob/main/images/snake-game-ss.PNG)
 
 4. *Space Invaders*
-Space Invaders game, thats the only description it takes. One player game. Kill those aliens!
-![Space Invaders Game](https://github.com/klaresa/Projects/blob/main/images/space-game-ss.PNG)
+
+ Space Invaders game, thats the only description it takes. One player game. Kill those aliens!
+  ![Space Invaders Game](https://github.com/klaresa/Projects/blob/main/images/space-game-ss.PNG)
 
 5. *Whack-a-Mole*
-Just click on that hotdog as fast as you possibly can to score high!
-![Whack-a-Mole Game](https://github.com/klaresa/Projects/blob/main/images/whack-game-ss.PNG)
--
+
+ Just click on that hotdog as fast as you possibly can to score high!
+ ![Whack-a-Mole Game](https://github.com/klaresa/Projects/blob/main/images/whack-game-ss.PNG)
