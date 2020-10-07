@@ -182,24 +182,29 @@ Javascript only project.
 
 1. *Connect Four*
  This games purpose is to connect four balls in a row. Whoever does it first wins the match. Two players.
+
  ![Connect Four](https://github.com/klaresa/Projects/blob/main/images/connect-four-ss.PNG)
 
 2. *Memory Game*
 
  Simple game for one player that one must unravel all cards by matching its pictures.
+
  ![Memory Game](https://github.com/klaresa/Projects/blob/main/images/memory-game-ss.PNG)
 
 3. *Nokia 3310 Snake*
 
  Classic snake game featured on Nokia phones. One player game.
+
  ![Snake Game](https://github.com/klaresa/Projects/blob/main/images/snake-game-ss.PNG)
 
 4. *Space Invaders*
 
  Space Invaders game, thats the only description it takes. One player game. Kill those aliens!
+
   ![Space Invaders Game](https://github.com/klaresa/Projects/blob/main/images/space-game-ss.PNG)
 
 5. *Whack-a-Mole*
 
  Just click on that hotdog as fast as you possibly can to score high!
- ![Whack-a-Mole Game](https://github.com/klaresa/Projects/blob/main/images/whack-game-ss.PNG)
+ 
+![Whack-a-Mole Game](https://github.com/klaresa/Projects/blob/main/images/whack-game-ss.PNG)
